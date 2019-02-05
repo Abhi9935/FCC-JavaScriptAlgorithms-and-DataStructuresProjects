@@ -1,1 +1,2 @@
-# FreeCodeCamp : JavaScript Algorithms-and-DataStructures Projects
+## FreeCodeCamp : JavaScript Algorithms-and-DataStructures Projects
+---
