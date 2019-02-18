@@ -7,7 +7,7 @@
 
 ---
 ### Problems
-## 1. JavaScript Algorithms and Data Structures Projects: Palindrome Checker
+## 1. [JavaScript Algorithms and Data Structures Projects: Palindrome Checker](https://github.com/Abhi9935/FCC-JavaScriptAlgorithms-and-DataStructuresProjects/blob/master/PalindromeChecker.js)
 Return true if the given string is a palindrome. Otherwise, return false.
 A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
 ##### Note
