@@ -10,13 +10,12 @@
 ---
 ### Problems
 ## 1. [JavaScript Algorithms and Data Structures Projects: Palindrome Checker](https://github.com/Abhi9935/FCC-JavaScriptAlgorithms-and-DataStructuresProjects/blob/master/PalindromeChecker.js)
-Return true if the given string is a palindrome. Otherwise, return false.
-A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
-##### Note
-You'll need to remove all non-alphanumeric characters (punctuation, spaces and symbols) and turn everything into the same case (lower or upper case) in order to check for palindromes.
-We'll pass strings with varying formats, such as "racecar", "RaceCar", and "race CAR" among others.
-We'll also pass strings with special symbols, such as "2A3*3a2", "2A3 3a2", and "2_A3*3#A2".
-Remember to use Read-Search-Ask if you get stuck. Write your own code.
+<p>Return&nbsp;<code>true</code>if the given string is a palindrome. Otherwise, return&nbsp;<code>false</code>.</p>
+<p>A&nbsp;<dfn>palindrome</dfn>&nbsp;is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.</p>
+<p><strong>Note</strong><br />You'll need to remove&nbsp;<strong>all non-alphanumeric characters</strong>&nbsp;(punctuation, spaces and symbols) and turn everything into the same case (lower or upper case) in order to check for palindromes.</p>
+<p>We'll pass strings with varying formats, such as&nbsp;<code>"racecar"</code>,&nbsp;<code>"RaceCar"</code>, and&nbsp;<code>"race CAR"</code>among others.</p>
+<p>We'll also pass strings with special symbols, such as&nbsp;<code>"2A3*3a2"</code>,&nbsp;<code>"2A3 3a2"</code>, and&nbsp;<code>"2_A3*3#A2"</code>.</p>
+<p>Remember to use&nbsp;<a href="http://forum.freecodecamp.org/t/how-to-get-help-when-you-are-stuck/19514" target="_blank">Read-Search-Ask</a>&nbsp;if you get stuck. Write your own code.</p>
 ## 2. [JavaScript Algorithms and Data Structures Projects: Roman Numeral Converter](https://github.com/Abhi9935/FCC-JavaScriptAlgorithms-and-DataStructuresProjects/blob/master/RomanNumeralConverter.js)
 Convert the given number into a roman numeral.
 All roman numerals answers should be provided in upper-case.
